@@ -7,7 +7,7 @@
   <link rel="icon" type="image/png" href="/assets2/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    BLU || Notification
+    BLU || Notificatio
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -197,7 +197,7 @@
         }
         else{
         $str2="";
-      }                  
+      }
       @endphp
 
     </div>
@@ -207,7 +207,7 @@
       <div class="card-header">
         <h4 class="card-title">Service Package Plans</h4>
       </div>
-      
+
       <div class="columns">
         <ul class="price">
           <li class="header">Basic</li>
@@ -297,7 +297,7 @@
                     <b> Danger - </b> This is a regular notification made with ".alert-danger"</span>
                   </div>
                 </div>-->
-              </div> 
+              </div>
             </div>
             <div class="col-md-12">
               <div class="card">
